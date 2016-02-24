@@ -10,220 +10,220 @@ This is a lecture for the Advanced Genome Analysis course in the Biochemistry an
 
 *******
 
- ![](images/rnaseq_lecture_2016-02-11.001.png)
+ ![](images/RNASeq_Astling_Feb11_2016.001.png)
  
 *******
 
- ![](images/rnaseq_lecture_2016-02-11.002.png)
+ ![](images/RNASeq_Astling_Feb11_2016.002.png)
  
 *******
 
- ![](images/rnaseq_lecture_2016-02-11.003.png)
+ ![](images/RNASeq_Astling_Feb11_2016.003.png)
  
 *******
 
- ![](images/rnaseq_lecture_2016-02-11.004.png)
+ ![](images/RNASeq_Astling_Feb11_2016.004.png)
  
 *******
 
- ![](images/rnaseq_lecture_2016-02-11.005.png)
+ ![](images/RNASeq_Astling_Feb11_2016.005.png)
  
 *******
 
- ![](images/rnaseq_lecture_2016-02-11.006.png)
+ ![](images/RNASeq_Astling_Feb11_2016.006.png)
  
 *******
 
- ![](images/rnaseq_lecture_2016-02-11.007.png)
+ ![](images/RNASeq_Astling_Feb11_2016.007.png)
  
 *******
 
- ![](images/rnaseq_lecture_2016-02-11.008.png)
+ ![](images/RNASeq_Astling_Feb11_2016.008.png)
  
 *******
 
- ![](images/rnaseq_lecture_2016-02-11.009.png)
+ ![](images/RNASeq_Astling_Feb11_2016.009.png)
  
 *******
 
- ![](images/rnaseq_lecture_2016-02-11.010.png)
+ ![](images/RNASeq_Astling_Feb11_2016.010.png)
  
 *******
 
- ![](images/rnaseq_lecture_2016-02-11.011.png)
+ ![](images/RNASeq_Astling_Feb11_2016.011.png)
  
 *******
 
- ![](images/rnaseq_lecture_2016-02-11.012.png)
+ ![](images/RNASeq_Astling_Feb11_2016.012.png)
  
 *******
 
- ![](images/rnaseq_lecture_2016-02-11.013.png)
+ ![](images/RNASeq_Astling_Feb11_2016.013.png)
  
 *******
 
- ![](images/rnaseq_lecture_2016-02-11.014.png)
+ ![](images/RNASeq_Astling_Feb11_2016.014.png)
  
 *******
 
- ![](images/rnaseq_lecture_2016-02-11.015.png)
+ ![](images/RNASeq_Astling_Feb11_2016.015.png)
  
 *******
 
- ![](images/rnaseq_lecture_2016-02-11.016.png)
+ ![](images/RNASeq_Astling_Feb11_2016.016.png)
  
 *******
 
- ![](images/rnaseq_lecture_2016-02-11.017.png)
+ ![](images/RNASeq_Astling_Feb11_2016.017.png)
  
 *******
 
- ![](images/rnaseq_lecture_2016-02-11.018.png)
+ ![](images/RNASeq_Astling_Feb11_2016.018.png)
  
 *******
 
- ![](images/rnaseq_lecture_2016-02-11.019.png)
+ ![](images/RNASeq_Astling_Feb11_2016.019.png)
  
 *******
 
- ![](images/rnaseq_lecture_2016-02-11.020.png)
+ ![](images/RNASeq_Astling_Feb11_2016.020.png)
  
 *******
 
- ![](images/rnaseq_lecture_2016-02-11.021.png)
+ ![](images/RNASeq_Astling_Feb11_2016.021.png)
  
 *******
 
- ![](images/rnaseq_lecture_2016-02-11.022.png)
+ ![](images/RNASeq_Astling_Feb11_2016.022.png)
  
 *******
 
- ![](images/rnaseq_lecture_2016-02-11.023.png)
+ ![](images/RNASeq_Astling_Feb11_2016.023.png)
  
 *******
 
- ![](images/rnaseq_lecture_2016-02-11.024.png)
+ ![](images/RNASeq_Astling_Feb11_2016.024.png)
  
 *******
 
- ![](images/rnaseq_lecture_2016-02-11.025.png)
+ ![](images/RNASeq_Astling_Feb11_2016.025.png)
  
 *******
 
- ![](images/rnaseq_lecture_2016-02-11.026.png)
+ ![](images/RNASeq_Astling_Feb11_2016.026.png)
  
 *******
 
- ![](images/rnaseq_lecture_2016-02-11.027.png)
+ ![](images/RNASeq_Astling_Feb11_2016.027.png)
  
 *******
 
- ![](images/rnaseq_lecture_2016-02-11.028.png)
+ ![](images/RNASeq_Astling_Feb11_2016.028.png)
  
 *******
 
- ![](images/rnaseq_lecture_2016-02-11.029.png)
+ ![](images/RNASeq_Astling_Feb11_2016.029.png)
  
 *******
 
- ![](images/rnaseq_lecture_2016-02-11.030.png)
+ ![](images/RNASeq_Astling_Feb11_2016.030.png)
  
 *******
 
- ![](images/rnaseq_lecture_2016-02-11.031.png)
+ ![](images/RNASeq_Astling_Feb11_2016.031.png)
  
 *******
 
- ![](images/rnaseq_lecture_2016-02-11.032.png)
+ ![](images/RNASeq_Astling_Feb11_2016.032.png)
  
 *******
 
- ![](images/rnaseq_lecture_2016-02-11.033.png)
+ ![](images/RNASeq_Astling_Feb11_2016.033.png)
  
 *******
 
- ![](images/rnaseq_lecture_2016-02-11.034.png)
+ ![](images/RNASeq_Astling_Feb11_2016.034.png)
  
 *******
 
- ![](images/rnaseq_lecture_2016-02-11.035.png)
+ ![](images/RNASeq_Astling_Feb11_2016.035.png)
  
 *******
 
- ![](images/rnaseq_lecture_2016-02-11.036.png)
+ ![](images/RNASeq_Astling_Feb11_2016.036.png)
  
 *******
 
- ![](images/rnaseq_lecture_2016-02-11.037.png)
+ ![](images/RNASeq_Astling_Feb11_2016.037.png)
  
 *******
 
- ![](images/rnaseq_lecture_2016-02-11.038.png)
+ ![](images/RNASeq_Astling_Feb11_2016.038.png)
  
 *******
 
- ![](images/rnaseq_lecture_2016-02-11.039.png)
+ ![](images/RNASeq_Astling_Feb11_2016.039.png)
  
 *******
 
- ![](images/rnaseq_lecture_2016-02-11.040.png)
+ ![](images/RNASeq_Astling_Feb11_2016.040.png)
  
 *******
 
- ![](images/rnaseq_lecture_2016-02-11.041.png)
+ ![](images/RNASeq_Astling_Feb11_2016.041.png)
  
 *******
 
- ![](images/rnaseq_lecture_2016-02-11.042.png)
+ ![](images/RNASeq_Astling_Feb11_2016.042.png)
  
 *******
 
- ![](images/rnaseq_lecture_2016-02-11.043.png)
+ ![](images/RNASeq_Astling_Feb11_2016.043.png)
  
 *******
 
- ![](images/rnaseq_lecture_2016-02-11.044.png)
+ ![](images/RNASeq_Astling_Feb11_2016.044.png)
  
 *******
 
- ![](images/rnaseq_lecture_2016-02-11.045.png)
+ ![](images/RNASeq_Astling_Feb11_2016.045.png)
  
 *******
 
- ![](images/rnaseq_lecture_2016-02-11.046.png)
+ ![](images/RNASeq_Astling_Feb11_2016.046.png)
  
 *******
 
- ![](images/rnaseq_lecture_2016-02-11.047.png)
+ ![](images/RNASeq_Astling_Feb11_2016.047.png)
  
 *******
 
- ![](images/rnaseq_lecture_2016-02-11.048.png)
+ ![](images/RNASeq_Astling_Feb11_2016.048.png)
  
 *******
 
- ![](images/rnaseq_lecture_2016-02-11.049.png)
+ ![](images/RNASeq_Astling_Feb11_2016.049.png)
  
 *******
 
- ![](images/rnaseq_lecture_2016-02-11.050.png)
+ ![](images/RNASeq_Astling_Feb11_2016.050.png)
  
 *******
 
- ![](images/rnaseq_lecture_2016-02-11.051.png)
+ ![](images/RNASeq_Astling_Feb11_2016.051.png)
  
 *******
 
- ![](images/rnaseq_lecture_2016-02-11.052.png)
+ ![](images/RNASeq_Astling_Feb11_2016.052.png)
  
 *******
 
- ![](images/rnaseq_lecture_2016-02-11.053.png)
+ ![](images/RNASeq_Astling_Feb11_2016.053.png)
  
 *******
 
- ![](images/rnaseq_lecture_2016-02-11.054.png)
+ ![](images/RNASeq_Astling_Feb11_2016.054.png)
  
 *******
 
- ![](images/rnaseq_lecture_2016-02-11.055.png)
+ ![](images/RNASeq_Astling_Feb11_2016.055.png)
