@@ -1,10 +1,3 @@
----
-output:
-  html_document:
-    keep_md: TRUE
----
-
-
 *******
 
  ![](images/RNASeq_Astling_Feb11_2016.001.png)
