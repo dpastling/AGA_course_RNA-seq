@@ -1,8 +1,10 @@
 #!/usr/bin/env Rscript
 
-require(knitr)
-require(markdown) 
-knit('$RMDFILE.rmd', '$RMDFILE.md')
-markdownToHTML('$RMDFILE.md', '$RMDFILE.html', options=c('use_xhml'))"
+library(knitr)
+library(markdown) 
+knit("README.rmd", "README.md")
 
-system("pandoc -s example-r-markdown.html -o example-r-markdown.pdf")
+#markdownToHTML("README.md", "README.html", options = c("use_xhml"))
+#system("pandoc -s README.html -o README.pdf")
+
+
